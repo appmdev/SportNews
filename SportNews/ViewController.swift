@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Hello World")
+        print("Another print statement")
         // Do any additional setup after loading the view.
     }
 
